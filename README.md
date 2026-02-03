@@ -2,19 +2,11 @@
 
 ## 关于：
 
-telegram：
+telegram[https://www.t.me/wsxiaolu666 ]
 
-[点击]: www.t.me/wsxiaolu666
+X[https://x.com/wsxiaolu?s=21 ]
 
-X:
-
-[点击]: https://x.com/wsxiaolu?s=21
-
-YouTube:
-
-[点击]: https://www.youtube.com/@wsxiaolu
-
-
+YouTube[https://www.youtube.com/@wsxiaolu ]
 
 ## Argon主题博客美化
 
