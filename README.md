@@ -2,12 +2,19 @@
 
 ## 关于：
 
-telegram:https://www.t.me/wsxiaolu666 
+telegram:
+```Plain
+https://www.t.me/wsxiaolu666 
+```
 
-X:https://x.com/wsxiaolu?s=21
-
-YouTube:https://www.youtube.com/@wsxiaolu
-
+X:
+```Plain
+https://x.com/wsxiaolu?s=21
+```
+YouTube:
+```Plain
+https://www.youtube.com/@wsxiaolu
+```
 ## Argon主题博客美化
 
 ==导入准备好的主题设置JSON==
@@ -15,10 +22,6 @@ YouTube:https://www.youtube.com/@wsxiaolu
 找到argon主题设置选项 点击右下角"到底部" 没有就将页面下滑一点点
 
 点击导入设置
-
-```Plain
-https://www.youtube.com/@wsxiaolu
-```
 
 ==更换网站图标==
 
