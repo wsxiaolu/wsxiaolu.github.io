@@ -164,3 +164,28 @@ transform: translateY(-45px);
 <script src="/wp-content/themes/argon/argon/live2d/pio_sdk4.js"></script> 
 <script src="/wp-content/themes/argon/argon/live2d/load.js"></script>
 ```
+## IDM激活工具
+
+![封面](https://dw.jichun29.cn/img/resource/2025/11/16464b9df3a8838f6ca850dad10cfa0d_691d217724b41.jpeg)
+
+IDM终生激活版是一款经过完整激活的Internet Download Manager（IDM）软件版本，提供终身授权，免除反复注册和付费的困扰。使用前需先卸载旧版本IDM，并运行附件中的“IDM卸载后执行.bat”脚本，彻底清理以往安装残留文件，确保后续安装干净无误。
+
+安装步骤如下：首先前往IDM官网下载最新版安装包并完成安装。安装完成后，完全退出IDM程序，执行附件内的“IDM_6.4x_Crack_v19.7”破解文件，以实现软件的永久激活。破解成功后，打开IDM，点击“注册”菜单并选择“注册”，即可在注册状态中确认已成功授权，享受全部高级功能。
+
+如果遇到浏览器集成失败的问题，导致浏览器扩展未自动安装，可以手动解决。进入IDM的安装目录，找到对应浏览器的插件文件，例如使用Chrome浏览器时，找到名为IDMGCExt.crx的扩展文件（Google Chrome扩展）。打开Chrome浏览器的扩展程序页面，启用开发者模式，将该crx文件拖入扩展程序页面完成安装，即可恢复浏览器与IDM的完美集成，保证下载管理功能正常工作。
+
+该版本激活后，IDM具备完整的下载加速、断点续传、多线程下载、浏览器深度集成等核心功能，极大提升下载效率和体验。通过清理旧版残留、确保软件最新版本安装和手动修复浏览器插件等多重步骤，保证软件环境的稳定和使用的顺畅，是资深用户和下载需求量大用户的理想选择。
+
+------
+
+📦 资源下载地址
+
+🔗 [点击这里下载资源](https://yun.139.com/shareweb/#/w/i/2qidZUhg0qtja)
+
+------
+
+📸 资源图片展示
+
+![资源图片1](https://dw.jichun29.cn/img/resource/2025/11/9NSHDJe_691d216f1e3df.webp)
+
+
