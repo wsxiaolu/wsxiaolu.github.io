@@ -1,20 +1,9 @@
 # 我是小卢想睡觉的博客
 
 ## 关于
-
-telegram:
-```Plain
-https://www.t.me/wsxiaolu666 
-```
-
-X:
-```Plain
-https://x.com/wsxiaolu?s=21
-```
-YouTube:
-```Plain
-https://www.youtube.com/@wsxiaolu
-```
+[telegram](https://www.t.me/wsxiaolu666)
+[X](https://x.com/wsxiaolu?s=21)
+[YouTube](https://www.youtube.com/@wsxiaolu)
 ## Argon主题博客美化
 
 ==导入准备好的主题设置JSON==
@@ -197,7 +186,7 @@ IDM终生激活版是一款经过完整激活的Internet Download Manager（IDM�
 - 支持多种视频、音频格式，无需额外解码器
 - 播放流畅不卡顿，且能进行多种画面优化调整
 
-[点击下載](https://wwmi.lanzouo.com/i2OPJ2i3lsle)
+[点击下载](https://wwmi.lanzouo.com/i2OPJ2i3lsle)
 
 ![img](https://www.30aitool.com/wp-content/uploads/2024/10/2024121408280531.webp)
 
