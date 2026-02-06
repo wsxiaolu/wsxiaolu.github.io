@@ -2,11 +2,17 @@
 
 ## 关于
 
-[telegram](https://www.t.me/wsxiaolu666)
+[博客](https://www.xiaolu.jqu.cc/#/?id=%e6%88%91%e6%98%af%e5%b0%8f%e5%8d%a2%e6%83%b3%e7%9d%a1%e8%a7%89%e7%9a%84%e5%8d%9a%e5%ae%a2)
 
 [X](https://x.com/wsxiaolu?s=21)
 
+[telegram](https://www.t.me/wsxiaolu666)
+
 [YouTube](https://www.youtube.com/@wsxiaolu)
+
+[Facebook](https://www.facebook.com/share/185ZidcNWw/?mibextid=wwXIfr)
+
+[Threads](https://www.threads.com/@wsxiaolu666?igshid=NTc4MTIwNjQ2YQ==)
 
 ## Argon主题博客美化
 
