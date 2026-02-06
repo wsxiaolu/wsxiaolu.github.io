@@ -184,8 +184,6 @@ transform: translateY(-45px);
 
 ## IDM激活工具
 
-![封面](https://dw.jichun29.cn/img/resource/2025/11/16464b9df3a8838f6ca850dad10cfa0d_691d217724b41.jpeg)
-
 IDM终生激活版是一款经过完整激活的Internet Download Manager（IDM）软件版本，提供终身授权，免除反复注册和付费的困扰。使用前需先卸载旧版本IDM，并运行附件中的“IDM卸载后执行.bat”脚本，彻底清理以往安装残留文件，确保后续安装干净无误。
 
 安装步骤如下：首先前往IDM官网下载最新版安装包并完成安装。安装完成后，完全退出IDM程序，执行附件内的“IDM_6.4x_Crack_v19.7”破解文件，以实现软件的永久激活。破解成功后，打开IDM，点击“注册”菜单并选择“注册”，即可在注册状态中确认已成功授权，享受全部高级功能。
@@ -199,12 +197,6 @@ IDM终生激活版是一款经过完整激活的Internet Download Manager（IDM�
 📦 资源下载地址
 
 🔗 [点击这里下载资源](https://yun.139.com/shareweb/#/w/i/2qidZUhg0qtja)
-
-------
-
-📸 资源图片展示
-
-![资源图片1](https://dw.jichun29.cn/img/resource/2025/11/9NSHDJe_691d216f1e3df.webp)
 
 ## 视频播放器
 
